@@ -16,7 +16,7 @@ CSS: For styling the pages and making the design responsive.
 
 How to View
 
-You can explore the Flexbox image gallery by visiting 
+You can explore the Flexbox image gallery by visiting https://aswin-pro.github.io/Udemy-Clone/
 
 Contributing
 
