@@ -16,10 +16,10 @@ CSS: For styling the pages and making the design responsive.
 
 How to View
 
-You can explore the Flexbox image gallery by visiting https://aswin-pro.github.io/Udemy-Clone/
+You can explore the udemy clone by visiting https://aswin-pro.github.io/Udemy-Clone/
 
 Contributing
 
 If you'd like to contribute or suggest improvements, please feel free to open an issue or create a pull request. Your feedback and contributions are highly valued!
 
-Thank you for visiting and exploring my image gallery!
+Thank you for visiting and exploring my udemy clone!
