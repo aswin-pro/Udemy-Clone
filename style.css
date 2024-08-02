@@ -189,11 +189,8 @@ del{
     .course-card{
         flex-basis: 40%;
     }
-    .categories p{
-        flex-grow: 1;
-        flex-basis: 25%;
-        margin: 10px;
-        text-align: center;
+    .categories{
+      display: none;
     }
     .navbar__s3{
         display: none;
